@@ -48,7 +48,7 @@ DataFile Required - Download from <a href="https://drive.google.com/drive/folder
 
 | Image | Caption |
 | :---: | :--- |
-| <img width="50%" src="https://drive.google.com/drive/folders/154ObbxDt5m7wI4ZgXwOYlNztskwzIEVK?usp=sharing/img_4.jpg" alt="Image 1"> | <ul><li><strong>Greedy:</strong> A man in a blue shirt is riding a bike on a dirt path.</li><li><strong>BEAM Search, k=3:</strong> A man is riding a bicycle on a dirt path.</li></ul>|
+| <img width="50%" src="https://github.com/saket349/ImageCaptionGenerator/blob/5fd9d854074768381599b192a84fc95b1c96897b/WhatsApp%20Image%202021-05-08%20at%208.33.56%20PM.jpeg" alt="Image 1"> | <ul><li><strong>Greedy:</strong> A man in a blue shirt is riding a bike on a dirt path.</li><li><strong>BEAM Search, k=3:</strong> A man is riding a bicycle on a dirt path.</li></ul>|
 | <img src="https://github.com/dabasajay/Image-Caption-Generator/raw/master/test_data/surfing.jpeg" alt="Image 2"> | <ul><li><strong>Greedy:</strong> A man in a red kayak is riding down a waterfall.</li><li><strong>BEAM Search, k=3:</strong> A man on a surfboard is riding a wave.</li></ul>|
 
 ## 4. Procedure to Train Model
